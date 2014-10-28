@@ -1,0 +1,261 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+/*Colores
+	
+	#24607f: Azul;
+	#000000: Negro;
+	#ff5105: Naranjado;
+	#a3e0ff: Azul Agua;
+	#d2d2d2: Gris;
+	#ff8a00: Naranjado Agua;
+	
+*/
+
+*{
+	font-family: Arial;
+}
+
+body{
+	background: #24607f;
+	padding: 0;
+	margin: 0
+}
+
+.email{
+	width: 200px;
+	padding: 10px;
+	margin-left: -10px;
+}
+
+.redes{
+	margin-left: 1100px;
+	position: fixed;
+}
+.sus{
+	background: #1E9EE3;
+	width: 100px;
+	border: none;
+	padding: 10px;
+	color: white;
+	margin-left: 50px;
+	margin-top: 25px;
+	font-family: 'Arvo', serif;
+}
+
+.icons{
+	margin-left: 20px;
+	cursor: pointer;
+}
+.up{
+
+	margin-top: 200px;
+	margin-left: 150px;
+	cursor: pointer;
+}
+.boletin{
+	font-size: 18px;
+	font-family: 'Arvo', serif;
+}
+
+.caja{
+	background: white;
+	width: 200px;
+	height: 200px;
+	padding: 25px;
+}
+#container{
+	width: 850px;
+	margin: 0 auto;
+}
+
+
+#container{
+	width: 850px;
+	margin: 105 auto;
+}
+
+#menu{
+	background: #fff;
+	text-align: center;
+	top: 0;
+	width: 850px;
+	position: fixed;
+	box-shadow: 0 2px  5px rgba(0,0,0,0.5)
+}
+
+#menu ul{
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 40px 10px;
+	margin-left: -25px;
+}
+
+#menu ul li a{
+	color: #000000;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 40px 10px
+	
+}
+
+#menu ul li a:hover{
+	background: #ff5105;
+	color: white;
+	transition: all 1s;
+	.moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+}
+
+
+
+.logo,  .logo:hover{
+	background: #ff5105  url(../img/logo1.png);
+	background-repeat: no-repeat;
+	background-position: center center; 
+	background-size: 210px;
+	padding-left: 105px !important;
+	padding-right: 105px !important;
+
+}
+
+.logo2{
+
+	background: #fff  url(../img/logo2.png);
+	background-repeat: no-repeat;
+	background-position: center center; 
+	background-size: 210px;
+	padding-left: 105px !important;
+	padding-right: 105px !important;
+
+}
+
+
+.seleccionado{
+	background: #ff5105;
+	color: white !important;
+}
+
+#slider{
+	
+	height: 450px;
+	width: 100%;
+	margin-top: 105px;
+	overflow: hidden;
+
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	-moz-box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	-o-box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+h2{
+	color: #a3e0ff;
+	font-size: 28px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+
+	text-shadow: 1px 1px 7px rgba(0,0,0,0.5);
+	-moz-text-shadow: 1px 1px 7px rgba(0,0,0,0.5);
+	-webkit-text-shadow: 1px 1px 7px rgba(0,0,0,0.5);
+	-o-text-shadow: 1px 1px 7px rgba(0,0,0,0.5);
+}
+
+.contenido{
+	background: #fff;
+
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	-moz-box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	-o-box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+.contenido p{
+	font-size: 14px;
+	padding: 40px;
+}
+
+#formulario{
+	background: #d2d2d2;
+	margin-top: -20px;
+	padding: 40px;
+
+	box-shadow: inset 1 1px 5px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 1 1px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: inset 1 1px 5px rgba(0,0,0,0.5);
+	-o-box-shadow: inset 1 1px 5px rgba(0,0,0,0.5);
+}
+
+#formulario form{
+	font-size:  14px;
+	margin: auto;
+	width: 400px;
+}
+
+textarea{
+	height: 100px;
+	width: 400px;
+}
+
+.campo,textarea{
+	background: #eee;
+	border: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+	width: 400px;
+
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.campo:focus, textarea:focus{
+	background: #fff;
+	outline: none;
+
+	box-shadow: 0 0 10px #24607f;
+	-moz-box-shadow: 0 0 10px #24607f;
+	-webkit-box-shadow: 0 0 10px #24607f;
+	-o-box-shadow: 0 0 10px #24607f;
+
+}
+
+.boton{
+	background: #ff8a00;
+	border: 0;
+	padding: 10px;
+	width: 150px;
+	color: white;
+	margin-left: 125px;
+
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+
+}
+
+.boton:hover{
+	background: #ff5105;
+	cursor: pointer;
+}
+
+#footer{
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+	font-size: 12px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+

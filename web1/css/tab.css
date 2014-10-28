@@ -1,0 +1,26 @@
+#tabServicios{
+	height: 400px;
+	width: 850px;
+}
+#tabs{
+	background: #ccc;
+	padding: 10px;
+	text-align: center;
+}
+
+#tabs a{
+	cursor: black;
+	font-size: 14px;
+	padding: 9px 11px 11px 11px;
+
+
+	transition: all .5s;
+	-moz-transition: all .5s;
+	-webkit-transition: all .5s;
+	-o-transition: all .5s;
+
+
+}
+
+#tabs:hover{
+	background: #eee;
