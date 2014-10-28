@@ -1,0 +1,151 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	
+}
+
+.section1{
+	width:100%;
+	height: 667px; 
+	background: url("../img/bum.png") 50% 0% no-repeat fixed, #33959f;
+}
+.titulo1{
+	color: white;
+	margin-left: 420px;
+	font-size: 100px;
+	font-family: 'Allura', cursive;
+}
+img{
+	width: 500px;
+	margin-left: 380px;
+}
+.article2{
+	background: red;
+	width: 100%;
+	height: 40px;
+	margin-top: 22px;
+}
+.titulo2{
+	font-family: 'Lora', serif;
+	color: white;
+	margin-left: 500px;
+}
+.section2{
+	width:100%;
+	height: 630px; 
+	background: url("../img/bum.png") 50% 0% no-repeat fixed, #33959f;
+}
+.titulo3{
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Lora', serif;
+	margin-left: 300px;
+	font-size: 50px;
+	padding-top: 10px;
+}
+.parrafo1{
+	width: 60%;
+	color: white;
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	padding-top: 10px;
+	margin-left: 300px;
+
+}
+.titulo4{
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Lora', serif;
+	margin-left:150px;
+	font-size: 50px;
+	padding-top: 10px;
+}
+.parrafo2{
+	width: 30%;
+	color: white;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin-left: 150px;
+	margin-top: -130px;
+
+}
+.a{
+	width: 128px;
+	margin-left: -0px;
+}
+.article6{
+	margin-left: 600px;
+	margin-top: -410px;
+}
+.parrafo4{
+	width: 60%;
+	color: white;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin-left: 150px;
+	margin-top: -130px;
+
+}
+.parrafo5{
+	width: 30%;
+	color: white;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin-left: 750px;
+	margin-top: -120px;
+
+}
+.titulo7{
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Lora', serif;
+	margin-left:130px;
+	font-size: 50px;
+	margin-left: 750px;
+}
+.a7{
+	width: 128px;
+	margin-left: 600px;
+}
+.article8{
+	background: #7c3;
+	width: 100%;
+	height: 40px;
+	margin-top: 55px;
+
+}
+.titulo8{
+	font-family: 'Lora', serif;
+	color: white;
+	margin-left: 500px;
+}
+
+.section3{
+	width: 100%;
+	height: 420px;
+	background: url("../img/textura.png");
+}
+.titulo9{
+	font-family: 'Lora', serif;
+	color: #7f8c8d;
+	font-size: 70px;
+	margin-left: 440px;
+}
+.a2{
+	margin-left: -30px;
+	width: 300px;
+	margin-left: 300px;
+
+}
+.red{
+	display: block;
+	width: 100px;
+	margin-top: -200px;
+	margin-left: 700px;
+	cursor: pointer;
+}
+.article10{
+	margin-top: 100px;
+}
