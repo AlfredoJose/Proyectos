@@ -1,0 +1,115 @@
+<?php 
+require_once("sesion.php");
+	
+
+	$sesion = new sesion();
+	$usuario = $sesion->get("usuario");
+	$nombre = $sesion->get("nombre");
+	
+	if( $usuario == true ){	
+		header("Location: top.php");		
+	}
+	
+	require_once("cusuarios.php");
+	$objUsuario=new usuarios();
+ 	
+
+
+ 
+
+ ?>
+<!DOCTYPE html>
+<html lang="es" >
+<head>
+	<title>TopShop</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="shortcut icon" href="img/m.png">
+
+
+</head>
+<body>
+	<header>
+		<a href="index.html"><h1>OAPP Online.</h1></a>
+		<div style="clear: bont;"></div>
+		<h1 class="mejoroapp">La mejor forma de conprar y vender.</h1>
+		<div style="clear: bont;"></div>
+		<!--<a href="http//www.facebook.com"><img class="sociales" src="img/facebook.jpg"></a>
+		<div style="clear: bont;"></div>
+		<a href="http//www.twitter.com"><img class="sociales" src="img/twitter.jpg"></a>-->
+		<nav>
+			<ul>
+				<a href="entrar.php"><li>Entrar</li></a>
+				<a href="register.php"><li>Registrarse</li></a>
+			</ul>
+		</nav>
+
+	</header>
+		
+	<section>
+
+		<a href="./pedidos.php?id=1">
+		<article class="articlee">
+		<div class="zoom">
+			<div class="con">
+				<span class="titulo">Computadora DDR3</span>
+			</div>
+			<img src="img/4.jpg">
+			<div class="con">
+				<span class="titulo">Ver Mas</span>
+			</div>
+		</article>
+		</div>
+		</a>
+
+		<a href="./pedidos.php?id=2">
+		<article class="articlee">
+			<div class="con">
+				<span>Galaxi S4</span>
+			</div>
+			<img src="img/8.jpg">
+			<div class="con">
+				<span class="titulo">Ver Mas</span>
+			</div>
+		</article>
+		</a>
+
+		<a href="./pedidos.php?id=3">
+		<article class="articlee">
+			<div class="con">
+				<span class="titulo">Patineta</span>
+			</div>
+			<img src="img/7.jpg">
+			<div class="con">
+				<span class="titulo">Ver Mas</span>
+			</div>
+		</article class="articlee">
+		</a>
+
+		<a href="./pedidos.php?id=4">
+		<article>
+			<div class="con">
+				<span class="titulo">Laptop</span>
+			</div>
+			<img src="img/3.jpg">
+			<div class="con">
+				<span class="titulo">Ver Mas</span>
+			</div>
+			</article>
+			</a>
+
+
+
+
+			
+	</section>
+
+
+
+<!--<a href="carritodecompras.php"><span class="carrito"></span></a>-->
+<footer>
+		<p class="piedepagina1"> © 2014 OAPP. Todos los derechos reservados.</p>
+		<a href="" class="links"><p class="piedepagina"></p></a>
+</footer>
+</body>
+</html>

@@ -1,0 +1,33 @@
+.form_container{
+	width: 100%;
+	position: relative;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.left,.rigth{
+	position: absolute;
+	top: 50%;
+	font-size: 4em;
+	height: 50px;
+	border: none;
+	color: #F7F7F7;
+	background-color: #00CCC4;
+	border-radius: 100px;
+}
+.left{
+	left: 0px;
+}
+.rigth{
+	right: 0px;
+}
+.form_container,.slideContainer{
+	white-space: nowrap;
+}
+.form_container,.slideContainer,.slide{
+	display: inline-block;
+	margin-right: -4px;
+	vertical-align: top;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 20%;
+}

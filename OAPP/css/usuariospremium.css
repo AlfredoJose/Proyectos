@@ -1,0 +1,249 @@
+.sidebar-toggle-boxp {
+    float: left;
+    height: 60px;
+    margin-left: -20px;
+    margin-right: 20px;
+    padding: 0px 30px;
+    margin-top: 10px;
+
+}
+.sidebar-toggle-boxp {
+    /*background: none repeat scroll 0% 0% #f5de11;*/
+    color: #FFF;
+}
+.dropdown-2p {
+    margin-top: -160px;
+    left: 1150px;
+}
+
+.panelp {
+    margin-top: -5px;
+    background: none repeat scroll 0% 0% #f5de11;
+    width: 100%;
+    height: 60px;
+}
+.opp {
+    font-size: 20px;
+    color: #FFF;
+    margin-top: -11px;
+}
+.brandp {
+    margin-top: 9px;
+    padding: 8px 20px 18px;
+    width: 132px;
+}
+#iconp{
+	margin: 10px;
+}
+#banner {
+    background: url('../img/h.jpg') no-repeat scroll 0% 0% transparent;
+    width: 90%;
+    background-size: 100% 100%;
+    height: 360px;
+    border: 0px solid #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: auto;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.4);
+}
+#contienebannner {
+    padding: 10px;
+    background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.6);
+}
+h3 {
+    font-family: "Merienda",cursive;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    position: relative;
+    top: -10px;
+    color: black;
+    text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0px;
+    padding: 0px;
+    padding-left: 40px;
+}
+.iniciar{
+	background: #f5de11;
+	border: none;
+	width: 200px;
+	height: 50px;
+	color: white;
+	margin-top: 240px;
+	margin-left: 1000px;
+}
+.banerdes{
+	margin-left: -45px;
+}
+.contienep{
+	display: inline-block;
+	margin-left: 110px;
+	
+
+
+}
+.spacee{
+	height: 70px;
+}
+#mdoletra{
+    background: none;
+    margin-left: 400px;
+    color: #999;
+    font-size: 35px;
+    font-family: arial;
+}
+#mdoletra2{
+    background: none;
+    margin-left: 350px;
+    color:#999;
+    font-size: 35px;
+    font-family: arial;
+}
+.contienemodos{
+    background:#f4f4f4;
+    height: 560px;
+    margin-top: -50px;
+    padding: 20px;
+
+}
+.lineblue{
+    background: tomato;
+    height: 20px;
+    width: 100%;
+    margin-top: -50px;
+}
+.linered{
+    background: tomato;
+    height: 10px;
+    width: 100%;
+}
+
+.contienedescripciondemodos{
+    background:#F5DE11;
+    height: 200px;
+    padding: 20px;
+}
+.modo1des{
+    color: #999;
+    font-size: 25px;
+    padding: 20px;
+    margin-left: 300px;
+    margin-top: -70px;
+}
+.modo2des{
+    color: #999;
+    font-size: 25px;
+    padding: 20px;
+    margin-left: 300px;
+    margin-top: -70px;
+}
+div#barra1pp {
+    background: none repeat scroll 0% 0% #2193FC;
+    width: 100%;
+    height: 70px;
+    color: #FFF;
+    text-align: center;
+    margin-top: -47px;
+}
+div#barra2pp {
+    background: none repeat scroll 0% 0% #2193FC;
+    width: 100%;
+    height: 70px;
+    color: #FFF;
+    text-align: center;
+}
+div#barra1ppp {
+    background: none repeat scroll 0% 0% #FFA500;
+    width: 100%;
+    height: 70px;
+    color: #FFF;
+    text-align: center;
+    margin-top: -47px;
+}
+div#barra2ppp {
+    background: none repeat scroll 0% 0% #FFA500;
+    width: 100%;
+    height: 70px;
+    color: #FFF;
+    text-align: center;
+}
+#formpp{
+    width: 500px;
+    padding: 10px;
+    margin-left: 100px;
+}
+.textp{
+    width: 500px;
+    height: 50px;
+}
+.desppp{
+    width: 500px;
+    height: 200px;
+}
+.iinfovendedor{
+    margin-left: 600px;
+    width: 500px;
+    margin-top: -630px;
+}
+.imagenp{
+    width: 500px;
+    color: red;
+    padding: 10px;
+}
+.botoncitoppp {
+    width: 500px;
+    height: 50px;
+    background: none repeat scroll 0% 0% #4A8BC2;
+    border: medium none;
+    border-radius: 5px;
+    color: #FFF;
+    padding: 10px;
+    margin-top: 70px;
+}
+.fileupload {
+    margin-bottom: 9px;
+}
+.fileupload .thumbnail {
+    display: inline-block;
+    margin-bottom: 5px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+}
+.thumbnail {
+    display: block;
+    padding: 4px;
+    line-height: 20px;
+    border: 1px solid #DDD;
+    border-radius: 4px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.055);
+    transition: all 0.2s ease-in-out 0s;
+}
+.fileupload .thumbnail > img {
+    display: inline-block;
+    max-height: 100%;
+    vertical-align: middle;
+}
+.thumbnail > img {
+    display: block;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fileupload-exists .fileupload-new, .fileupload-new .fileupload-exists {
+    display: none;
+}
+.btn {
+    text-shadow: none;
+}
+.btn {
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    text-align: center;
+    text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
+    cursor: pointer;
+}

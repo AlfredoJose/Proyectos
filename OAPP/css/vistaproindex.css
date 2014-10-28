@@ -1,0 +1,123 @@
+
+.item-highlights{
+     background-color: #AEBA2B;
+     -moz-border-radius:0 5px 5px 0;
+     -webkit-border-radius:0 5px 5px 0;
+     border-radius: 0  5px 5px 0;
+     color: #fff;
+     display: block;
+     font-size: 12px;
+     left: -13px;
+     margin: 0;
+     padding: 7px 20px 8px;
+     position: absolute;
+     top: 20px;
+     z-index: 999;
+     -webkit-box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.2);
+     -moz-box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.2);
+     box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.2);
+     margin-top: 70px;
+}
+
+.item-highlights:before{
+    border-color: #869000 transparent;
+    border-style: solid;
+    border-width: 13px 0 0 12px;
+    content: "";
+    left: 0;
+    position: absolute;
+    top: 100%;
+}
+
+.item-highlights strong,.item-price strong{
+    display: block;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 4px;
+    word-wrap: break-word;
+    text-shadow:0 1px 0 rgba(0,0,0,.5);
+    text-shadow:0 rgba(0,0,0,0)\0/;
+}
+.product-search {
+    background: none repeat scroll 0% 0% rgba(227,227,227,0.78);
+    margin-bottom: 15px;
+    height: 500px;
+}
+img.imgggg{
+    width: 500px;
+    height: 500px;
+}
+.portfolio-text-infoo{
+
+    margin-left: 50px;
+}
+.portfolio-text-infooo{
+    background: gray;
+    margin-left: 50px;
+}
+h4.tituloarr{
+    color: black;
+    font-size: 27px;
+    font-family: arial;
+    margin-top: 17px;
+}
+h4.tituloarru{
+    color: black;
+    font-size: 27px;
+    font-family: arial;
+    padding: 20px;
+}
+.gris{
+    background: rgba(227,227,227,0.78);
+    width: 100%;
+    height: 60px; 
+}
+div.p{
+
+    margin-left: 200px;
+}
+p.descripciontitulo{
+    width: 700px;
+    text-align: justify;
+    font-size: 20px;
+    color: #999;
+    margin-left: 300px;
+    cursor: default;
+}
+.nombre_cliente{
+ margin-left: -300px;
+    font-size: 25px;
+    font-family: arial;
+}
+.labels{
+     padding-left: 240px;
+   text-align: left; 
+}
+.labelss{
+    padding-left: 240px;
+}
+.nombre{
+    margin-left: -200px;
+}
+input{
+    margin-left: 400px;
+
+}
+.inputvendedor{
+    width: 600px;
+    height: 50px;
+}
+.textareaa{
+    margin-left: 400px;
+   width: 600px;
+    height: 300px; 
+}
+.botoninfocliente{
+    color: white;
+    width: 200px;
+    height: 50px;
+    border: none;
+    background: #869000 ;
+    border-radius: 20px;
+}

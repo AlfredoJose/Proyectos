@@ -1,0 +1,127 @@
+.item-highlights {
+    background-color: #2FADE7;
+    border-radius: 0px 5px 5px 0px;
+    color: #FFF;
+    display: block;
+    font-size: 12px;
+    left: -13px;
+    margin: 70px 0px 0px;
+    padding: 7px 20px 8px;
+    position: absolute;
+    top: 20px;
+    z-index: 999;
+    box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 435px;
+}
+.product-text img {
+    float: left;
+    margin-right: -111px;
+    margin-top: -48px;
+}
+img.imgggg{
+    width: 500px;
+    height: 500px;
+}
+.portfolio-text-infoo {
+    margin-left: 500px;
+    width: 849px;
+
+}
+.portfolio-text-infoo{
+    background: #f3f5f0;
+    height: 500px;
+    margin-top: -49px;
+    z-index: 500px;
+}
+h4.titulopremiums{
+    color:#555;
+    font-size: 25px;
+    padding: 20px;
+}
+.descripciontitulo{
+    padding: 10px;
+    font-size: 20px;
+}
+.botonsus{
+    margin-top: -70px;
+    margin-left: 200px;
+}
+.gris{
+    width: 500px;
+    margin-top: 360px;
+    height: 50px;
+    color: white;
+    background: orange;
+
+}
+.tituloarru{
+    font-size: 25px;
+    padding: 10px;
+}
+.lineaentodo{
+    margin-top: -23px;
+    width: 477px;
+    padding: 10px;
+    border: 1px solid orange;
+}
+.nombre_cliente{
+    margin-left: -10px;
+
+}
+.botoninfocliente{
+    margin-left: 120px;
+    background: #2FADE7;
+    border: none;
+    width: 250px;
+    height: 50px;
+    color: white;
+    
+}
+.labels{
+    text-align: left;
+    color: red;
+    margin-left: 5px;
+}
+.nombre{
+    margin-left: 80px;
+    padding: 5px;
+    font-size: 25px;
+}
+.fmrsend{
+    margin.left: 100px;
+}
+.labelss{
+    margin-left: 200px;
+    padding: 10px;
+}
+.textareaa{
+    margin-left: 50px;
+    width: 400px;
+    height: 100px;
+    text-align: left;
+}
+.inputvendedor{
+    margin-left: 50px;
+    width: 400px;
+}
+
+.item-highlights:before{
+    border-color: #869000 transparent;
+    border-style: solid;
+    border-width: 13px 0 0 12px;
+    content: "";
+    left: 0;
+    position: absolute;
+    top: 100%;
+}
+
+.item-highlights strong,.item-price strong{
+    display: block;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 4px;
+    word-wrap: break-word;
+    text-shadow:0 1px 0 rgba(0,0,0,.5);
+    text-shadow:0 rgba(0,0,0,0)\0/;
+}

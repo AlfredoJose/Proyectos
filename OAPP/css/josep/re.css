@@ -1,0 +1,58 @@
+.inputre
+{
+	margin: 10px;
+	height: 40px;
+	  width: 500px;
+	  border: 1px solid #01A9DB;
+      font-size: 1.1em;
+	  font-family: Verdana, arial;
+	  padding-left: 7px;
+	  padding-right: 7px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  border-radius: 4px;
+	  -moz-border-radius: 4px;
+	  -webkit-border-radius: 4px;
+	  -o-border-radius: 4px;
+	  background: #FFFFFF;
+	  background: linear-gradient(left, #FFFFFF, #F7F9FA);
+	  background: -moz-linear-gradient(left, #FFFFFF, #F7F9FA);
+	  background: -webkit-linear-gradient(left, #FFFFFF, #F7F9FA);
+	  background: -o-linear-gradient(left, #FFFFFF, #F7F9FA);
+	  color: #2E3133;
+	  text-align: center;
+
+}
+#boton{
+	margin: 10px;
+	  height: 60px;
+	  width: 515px;
+	  border: 1px solid #01A9DB;
+      font-size: 1.1em;
+	  font-family: Verdana, arial;
+	  padding-left: 7px;
+	  padding-right: 7px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  border-radius: 4px;
+	  -moz-border-radius: 4px;
+	  -webkit-border-radius: 4px;
+	  -o-border-radius: 4px;
+	  background: #FFFFFF;
+	  background: linear-gradient(left, #FFFFFF, #F7F9FA);
+	  background: -moz-linear-gradient(left, #FFFFFF, #F7F9FA);
+	  background: -webkit-linear-gradient(left, #FFFFFF, #F7F9FA);
+	  background: -o-linear-gradient(left, #FFFFFF, #F7F9FA);
+	  color: #2E3133;
+	  text-align: center;
+	  cursor: pointer;
+}
+
+#fmregister{
+	padding: 20px;
+	background: rgba(0,0,0,0.2);
+	width: 40%;
+	height: 570px;
+	margin: auto;
+	box-shadow: 0px 15px 20px rgba(0,0,0,0.4) inset;
+}

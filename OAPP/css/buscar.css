@@ -1,0 +1,59 @@
+.portfolio-text-info {
+    padding-right: 800px;
+    margin-top: 30px;
+margin-left: 100px;
+}
+.expremir{
+	width: 1100px;
+	margin-left: -140px;
+	margin-top: 20px;
+}
+.barrabuscar{
+	width: 700px;
+	margin: auto;
+	background: #f5b40c;
+	height: 50px;
+	margin-left: 250px;
+
+}
+.palabrabuscar{
+	background: #0297EB;
+	background: ;
+	height: 40px;
+	width: 200px;
+	padding-top: 10px;
+	margin-left: 0px;
+
+}
+#wordbuscar{
+	color: white;
+	font-size: 20px;
+
+}
+#fmrbuscar{
+	margin-left: 200px;
+	margin-top: -30px;
+}
+.inputbuscar{
+	width: 410px;
+	height: 50px;margin-top: -25px;
+
+}
+.inputbuscarboton{
+	background: #0297eb;
+	border: none;
+	color: white;
+	width: 200px;
+	height: 50px;
+	margin-top: -60px;
+	margin-left: 410px;
+	text-align: center;
+}
+.result{
+	display: inline-block;
+	width: 790px;
+	background: rgba(0,0,0,0.1);
+	text-align: left;
+	margin-top: -10px;
+	padding: 10px;
+}

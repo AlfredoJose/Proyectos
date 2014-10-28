@@ -1,0 +1,51 @@
+/*table{
+	border: 1px solid black;
+}
+
+.tabla_usuarios{
+	border-color: blue;
+	width: 50%;
+	margin: 100px auto;
+	color: black;
+
+}
+tr{
+
+	background: rgba(214,214,214,0.78);
+}
+td{
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.red{
+	border: 1px solid black;
+	color: white;
+	background: red;
+}*/
+
+
+
+.desactivar{
+	background:  #f0f500;
+	border: none;
+	width: 100px;
+	height: 30px;
+
+}
+.activar{
+	background:   green;
+	color: white;
+	border: none;
+	width: 100px;
+	height: 30px;
+
+}
+.eliminar{
+	background:   red;
+	color: white;
+	border: none;
+	width: 100px;
+	height: 30px;
+
+}
