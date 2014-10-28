@@ -1,0 +1,43 @@
+.red{
+	padding-left: 0px;
+	padding-top: 100px;
+}
+.img_redes{
+	width: 500px;
+}
+.red_titulo{
+	margin-top: -300px;
+	padding-left: 600px;
+}
+.titulo_afiliados{
+	font-size: 50px;
+	font-family: Arial;
+	color: #777777;
+	padding-left: 150px;
+
+}
+.parrafo_afiliados{
+	padding: 20px;
+	font-size: 20px;
+	font-family: Arial;
+	color: #777777;
+	margin-left: -70px;
+}
+.img_internet{
+	width: 250px;
+	padding-left: 200px;
+}
+.raya{
+	width: 700px;
+	height: 1px;
+	background: #777777;
+	margin-left: 550px;
+	margin-top: 100px;
+	transform: rotate(-7deg);
+	-wetkit-transform: rotate(-7deg);
+	-moz-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+}
+.container3{
+	margin-top: 80px;
+}

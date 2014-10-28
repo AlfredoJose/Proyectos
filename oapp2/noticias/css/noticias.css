@@ -1,0 +1,13 @@
+.container2{
+	width: 85%;
+	height: auto;
+	margin: auto;
+	
+}
+.articulo{
+	background: #fbfbfb;
+	width: 70%;
+	overflow: hidden;
+	height: 200px;
+	margin-top: 10px;
+}
